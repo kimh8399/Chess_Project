@@ -1,3 +1,9 @@
+// Final Project
+// Huck Kim and TIm Zwart
+//
+// Single player chess AI
+// 2017
+
 #include <iostream>
 
 using namespace std;
